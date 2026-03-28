@@ -18,7 +18,6 @@
 #'   \code{3} (Low, Medium and High). Must be \eqn{\ge 2}.
 #' @param n_pca_components Integer. Maximum number of principal components to
 #'   keep before running t-SNE. default = 10, but automatically limited if too large).
-.
 #' @param tsne_perplexity Numeric. t-SNE perplexity parameter. Automatically
 #'   restricted to \code{max(1, floor((n-1)/3))} to avoid errors on small datasets.
 #'   Default is \code{30}.
@@ -70,7 +69,7 @@
 #'
 #' @seealso \code{\link{prep_data}}, \code{\link{recommend}},
 #'   \code{\link{plot_clusters}}, \code{\link{save_all_plots}}
-#' @importFrom stats prcomp kmeans aggregate sd median
+#' @importFrom stats prcomp kmeans aggregate sd median tapply
 #' @export
 analyse <- function(prepped,
                     n_clusters       = NULL,
