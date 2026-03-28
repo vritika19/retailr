@@ -1,0 +1,22 @@
+Package: retailr
+Title: Fashion Product Segmentation and Profit-Tier Analysis
+Version: 0.1.0
+Authors@R: person("Vritika", email = "vritika25@iitk.ac.in", role = c("aut", "cre"))
+Description: An end-to-end pipeline for segmenting fashion retail products into
+    profit tiers (High, Mid, Low) using PCA, t-SNE, cross-validated K-means
+    clustering, and kNN classification. Given a raw product dataset the package
+    cleans and encodes features, runs the segmentation pipeline, and returns
+    actionable upgrade recommendations for each product.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
+Imports:
+    Rtsne,
+    cluster,
+    glmnet,
+    stats,
+    grDevices,
+    graphics
+Suggests:
+    testthat (>= 3.0.0)
