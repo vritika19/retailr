@@ -3,8 +3,6 @@
 <p align="center">
   <img src="image_upscaled.png" width="600"/>
 </p>
----
-
 
 
 ## 📌 Overview
