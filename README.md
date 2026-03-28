@@ -3,12 +3,6 @@
 <p align="center">
   <img src="image_upscaled.png" width="600"/>
 </p>
-
-<p align="center">
-  <b>Fashion Retail Analytics in R</b><br>
-  Identify high, mid, and low profit products and get actionable recommendations.
-</p>
-
 ---
 
 
