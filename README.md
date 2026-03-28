@@ -88,7 +88,7 @@ MIT License
 ## 👩‍💻 Author
 
 **Vritika Prajapati**  
-Aspiring Data Scientist  
+ 
 
 ---
 
