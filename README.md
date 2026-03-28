@@ -1,7 +1,7 @@
 # 🛍️ retailr
 
 <p align="center">
-  <img src="image.png" width="600"/>
+  <img src="image_upscaled.png" width="600"/>
 </p>
 
 <p align="center">
