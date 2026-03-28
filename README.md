@@ -5,11 +5,11 @@
 <p align="center">
   <img src="image.png" width="500"/>
 </p>
----
+
 
 ## 📌 Overview
 
-`retailr` analyzes fashion product catalog data (CSV format) and segments products into **High**, **Mid**, and **Low** profit potential clusters.
+`retailr` analyzes fashion product catalog data (CSV format) and segments products into **High**, **Medium** and **Low** profit potential clusters.
 
 It goes beyond clustering by telling retailers:
 - Which products to **scale**
