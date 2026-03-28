@@ -2,10 +2,6 @@
 
 > An R package for **fashion retail analytics** that helps identify low, medium and high profit products and recommends actionable improvements.
 
-<p align="center">
-  <img src="image.png" width="500"/>
-</p>
-
 
 ## 📌 Overview
 
