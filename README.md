@@ -1,8 +1,15 @@
+# 🛍️ retailr
+
 <p align="center">
-  <img src="image.png" width="500"/>
+  <img src="image.png" width="600"/>
 </p>
 
-# 🛍️ retailr
+<p align="center">
+  <b>Fashion Retail Analytics in R</b><br>
+  Identify high, mid, and low profit products and get actionable recommendations.
+</p>
+
+---
 
 > An R package for **fashion retail analytics** that helps identify low, medium and high profit products and recommends actionable improvements.
 
