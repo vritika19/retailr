@@ -112,7 +112,8 @@ plot_cluster_sizes <- function(result,
 #' }
 #'
 #' @seealso \code{\link{plot_clusters}}, \code{\link{save_all_plots}}
-#' @importFrom stats boxplot tapply
+#' @importFrom stats tapply
+#' @importFrom graphics boxplot
 #' @export
 plot_price_distribution <- function(result,
                                     original_prices = NULL,
