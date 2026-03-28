@@ -87,7 +87,7 @@ MIT License
 
 ## 👩‍💻 Author
 
-**Vritika Prajapati**  
+**Vritika**  
  
 
 ---
