@@ -1,6 +1,6 @@
 # 🛍️ retailr
 
-> An R package for **fashion retail analytics** that helps identify high, mid, and low profit products — and recommends actionable improvements.
+> An R package for **fashion retail analytics** that helps identify low, medium and high profit products and recommends actionable improvements.
 
 ---
 
